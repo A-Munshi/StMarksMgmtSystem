@@ -9,4 +9,4 @@ A simple **Java console application** to manage student marks. The program allow
 * Interactive menu-driven program
 
 ### Output
-<img width="644" height="1533" alt="image" src="https://github.com/user-attachments/assets/4af12a28-88e8-4af0-b298-76a75a204089" />
+<img width="656" height="1584" alt="image" src="https://github.com/user-attachments/assets/10cdffcc-26bf-4599-a913-731a7aa875ad" />
